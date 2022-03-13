@@ -1,0 +1,6 @@
+name: Sequence
+author: DevEx
+description: CICD Powered By Sequence™
+runs:
+  using: node16
+  main: shim.js
